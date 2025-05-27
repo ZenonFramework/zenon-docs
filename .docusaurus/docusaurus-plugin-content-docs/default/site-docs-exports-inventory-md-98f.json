@@ -1,0 +1,19 @@
+{
+  "id": "exports/inventory",
+  "title": "Inventory Exports",
+  "description": "List of usable exports in zenon-inventory.",
+  "source": "@site/docs/exports/inventory.md",
+  "sourceDirName": "exports",
+  "slug": "/exports/inventory",
+  "permalink": "/zenon-docs/docs/exports/inventory",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Zenon Mobile",
+    "permalink": "/zenon-docs/docs/apps/phone"
+  }
+}

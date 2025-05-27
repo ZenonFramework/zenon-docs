@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/zenon-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/zenon-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "apps/phone",
+              "path": "/zenon-docs/docs/apps/phone",
+              "sidebar": "docs"
+            },
+            {
+              "id": "exports/inventory",
+              "path": "/zenon-docs/docs/exports/inventory",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/zenon-docs/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "jobs/ems",
+              "path": "/zenon-docs/docs/jobs/ems",
+              "sidebar": "docs"
+            },
+            {
+              "id": "jobs/police",
+              "path": "/zenon-docs/docs/jobs/police",
+              "sidebar": "docs"
+            },
+            {
+              "id": "setup/database-import",
+              "path": "/zenon-docs/docs/setup/database-import",
+              "sidebar": "docs"
+            },
+            {
+              "id": "setup/server-setup",
+              "path": "/zenon-docs/docs/setup/server-setup",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/zenon-docs/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

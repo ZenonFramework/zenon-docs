@@ -1,0 +1,86 @@
+{
+  "/zenon-docs/__docusaurus/debug-604": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/__docusaurus/debug/config-27a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/__docusaurus/debug/content-dab": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    },
+    "__props": "__props---zenon-docs-docusaurus-debug-contentc-85-598"
+  },
+  "/zenon-docs/__docusaurus/debug/globalData-961": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/__docusaurus/debug/metadata-b65": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/__docusaurus/debug/registry-407": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/__docusaurus/debug/routes-d98": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docusaurus-debugb-38-25f"
+    }
+  },
+  "/zenon-docs/docs-d62": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---zenon-docs-docsaba-a6a"
+    }
+  },
+  "/zenon-docs/docs-f2e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---zenon-docs-docsa-92-570"
+  },
+  "/zenon-docs/docs-2ff": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/zenon-docs/docs/apps/phone-528": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-apps-phonec-7-e-5e0"
+  },
+  "/zenon-docs/docs/exports/inventory-084": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-exports-inventory-98-f-768"
+  },
+  "/zenon-docs/docs/intro-066": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-intro-0-e-3-2b6"
+  },
+  "/zenon-docs/docs/jobs/ems-0b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-jobs-emsa-93-19b"
+  },
+  "/zenon-docs/docs/jobs/police-3c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-jobs-policebd-2-d43"
+  },
+  "/zenon-docs/docs/setup/database-import-464": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-setup-database-importa-58-cb5"
+  },
+  "/zenon-docs/docs/setup/server-setup-c78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---zenon-docs-docs-setup-server-setupe-07-0a8"
+  }
+}

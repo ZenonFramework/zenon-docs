@@ -1,0 +1,23 @@
+{
+  "id": "jobs/ems",
+  "title": "EMS Job",
+  "description": "Revive system, MDT usage, and auto-hospital handling.",
+  "source": "@site/docs/jobs/ems.md",
+  "sourceDirName": "jobs",
+  "slug": "/jobs/ems",
+  "permalink": "/zenon-docs/docs/jobs/ems",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Police Job",
+    "permalink": "/zenon-docs/docs/jobs/police"
+  },
+  "next": {
+    "title": "Zenon Mobile",
+    "permalink": "/zenon-docs/docs/apps/phone"
+  }
+}
